@@ -84,5 +84,9 @@ friends: [
     {
         title: "冷湘宇的Blog",
         href: "http://www.coldxiangyu.com"
+    },
+    {
+        title: "冷湘宇的QQ空间",
+        href: "https://user.qzone.qq.com/243203619/main"
     }
 ]
