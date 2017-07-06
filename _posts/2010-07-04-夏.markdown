@@ -1,14 +1,14 @@
----         
-layout:     post    
-title:      "夏"    
-subtitle:   ""    
-date:       2010-07-04 16:35:00    
-author:     "Coldxiangyu"    
-header  img: ""  
+---
+layout:     post
+title:      "夏"
+subtitle:   ""
+date:       2010-07-04 16:35:00
+author:     "Coldxiangyu"
+header  img: ""
 tags:
     - 诗
     - 夏
----  
+---
 
 >一如既往  
 >
