@@ -4,8 +4,11 @@ title:      "夏"
 subtitle:   ""    
 date:       2010-07-04 16:35:00    
 author:     "Coldxiangyu"    
-header  img: ""    
----        
+header  img: ""  
+tags:
+    - 诗
+    - 夏
+---        
 >一如既往  
 >
 >却又非同寻常的夏炎  
