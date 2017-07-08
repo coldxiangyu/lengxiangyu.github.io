@@ -4,7 +4,7 @@ title:      "叶落 迷路 七里伤"
 subtitle:   ""
 date:       2009-11-30 19:09:00
 author:     "Coldxiangyu"
-header-img: "img/post-bg-fall"
+header-img: "img/post-bg-fall.jpg"
 tags:
     - 迷路
     - 伤
