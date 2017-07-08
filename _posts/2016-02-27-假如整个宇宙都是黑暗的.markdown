@@ -4,7 +4,7 @@ title:      "倘若整个宇宙都是黑暗的"
 subtitle:   ""    
 date:       2016-02-27 08:12:00    
 author:     "Coldxiangyu"    
-header-img: "" 
+header-img: "img/post-bg-dark" 
 tags:
     - 黑暗
     - 人性
