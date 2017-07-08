@@ -4,7 +4,7 @@ title:      "唯爱与童年不可辜负"
 subtitle:   ""
 date:       2015-06-02 21:39:00
 author:     "Coldxiangyu"
-header-img: ""
+header-img: "img/post-bg-love.jpg"
 tags:
     - 夏
     - 生活
