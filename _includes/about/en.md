@@ -1,4 +1,4 @@
 
 
-> Life is short, I choose to waste!
+> Life is short, don't waste!
 
